@@ -1,20 +1,21 @@
 page-home {
 	.background {
-        background-image: url('../assets/bg.jpg');
-        background-size: cover;
+		background-image: url('../assets/LOGOSANG/backroungSang.png');
+		background-size: cover;
+		background-position: 52%;
         width: 100%;
-        display: block;
+		display: block;
+		margin-top: 10%;
     }
     #imgYou {
-        margin-bottom: 60px;
+		margin-bottom: 60px;
+		padding: 5%;
     }
-    h1 {
-        font-style: italic;
-    }
+   
 
 	.scroll-content {
 		align-content: center;
-		display: flex;
+		display: block;
 		flex-direction: column;
 		justify-content: center;
 		text-align: center;
